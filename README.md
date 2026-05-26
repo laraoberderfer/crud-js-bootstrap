@@ -39,7 +39,7 @@ O desenvolvimento do ecossistema foca na manipulação dinâmica do Front-End in
 Antes de começar, você vai precisar ter instalado em sua máquina o [Node.js](https://nodejs.org/).
 
 ### 1. Clonar ou baixar o repositório
-git clone [https://github.com/laraoberderfer/nome-do-repositorio.git](https://github.com/laraoberderfer/crud-js-bootstrap.git)
+git clone [https://github.com/laraoberderfer/crud-js-bootstrap.git](https://github.com/laraoberderfer/crud-js-bootstrap.git)
 cd work
 
 ### 2. Iniciar o Servidor Back-End (Mock API)
