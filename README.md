@@ -40,7 +40,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina o [Node.js](
 
 ### 1. Clonar ou baixar o repositório
 git clone [https://github.com/laraoberderfer/crud-js-bootstrap.git](https://github.com/laraoberderfer/crud-js-bootstrap.git)
-cd work
 
 ### 2. Iniciar o Servidor Back-End (Mock API)
 O projeto utiliza o pacote json-server para simular as rotas da API. Certifique-se de estar usando uma versão do Node compatível e rode o seguinte comando global para instalar (caso ainda não tenha) e rodar o banco local:
