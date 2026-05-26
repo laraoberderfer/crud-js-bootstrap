@@ -39,7 +39,7 @@ O desenvolvimento do ecossistema foca na manipulação dinâmica do Front-End in
 Antes de começar, você vai precisar ter instalado em sua máquina o [Node.js](https://nodejs.org/).
 
 ### 1. Clonar ou baixar o repositório
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+git clone [https://github.com/laraoberderfer/nome-do-repositorio.git](https://github.com/laraoberderfer/crud-js-bootstrap.git)](https://github.com/laraoberderfer/crud-js-bootstrap.git)
 cd work
 
 ### 2. Iniciar o Servidor Back-End (Mock API)
@@ -51,7 +51,7 @@ npm install -g json-server
 # Executar o servidor apontando para o seu arquivo work.json
 json-server --watch work.json
 
-O servidor iniciará por padrão na porta http://localhost:3000.
+O servidor iniciará por padrão na porta http://localhost:3000
 
 ### 3. Executar o Front-End
 Basta abrir o arquivo index.html diretamente em seu navegador ou utilizar a extensão Live Server no VS Code para rodar a aplicação localmente.
